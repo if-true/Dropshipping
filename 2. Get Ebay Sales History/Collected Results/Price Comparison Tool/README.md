@@ -7,4 +7,4 @@ virtualenv ENV_NAME
 ./activate
 
 ## Navigate back
-pip -r requirements.txt
+pip install -r requirements.txt
